@@ -1,4 +1,4 @@
-# sports-day
+# Sports Day
 
 A React App for listing and booking Events on Sports Day. 
 
